@@ -1,5 +1,5 @@
-title:            Notepad
-description:      "Blogging is fun"
+title:            Speech Path Podcast
+description:      "A podcast about speech pathology."
 logo:             logo.png
 disqus_shortname: hmfaysal
 share:            true
@@ -11,16 +11,13 @@ url:              ''
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+  name:           Amy Conrad
   avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  email:          conrad13@purdue.edu
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    A hot speech pathology undergrade.
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
   facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/u/0/102602916593522619858
 
