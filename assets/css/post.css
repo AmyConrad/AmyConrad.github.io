@@ -636,3 +636,13 @@ iframe {
     vertical-align: super;
     color: black;
 }
+
+.notepad-post-meta-simple h1 {
+  font-size: 3em;
+}
+
+.soundcloud {
+  display: block;
+  width: 56.25rem;
+  margin: 0 auto 2em auto;
+}

@@ -1,31 +1,23 @@
 title:            Speech Path Podcast
-description:      "A podcast about speech pathology."
+description:      "A podcast about<br/>speech pathology."
 logo:             logo.png
-disqus_shortname: hmfaysal
 share:            true
-dropcap:			true
+dropcap:	  true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:              ''
+url:              'http://www.speechpathpodcast.com/'
 
 # Owner/author information
 owner:
   name:           Amy Conrad
-  avatar:         hmfaysal.jpg
+  avatar:         amy.jpg
   email:          conrad13@purdue.edu
-  # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    A hot speech pathology undergrade.
-  # Social networking links used in footer. Update and remove as you like.
-  facebook:       hmfaysal
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  description:    An aspiring speech pathologist.
+  facebook:       amy.conrad.104
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
-google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+google_analytics:   UA-69211425-1
 
 # Links to include in footer navigation
 # For external links add external: true
@@ -34,15 +26,13 @@ links:
     url: /
     external: false
     icon: home
-  - title: Featured Posts
+  - title: Posts
     url: /featured
-  - title: Categories
-    url: /categories
   - title: About
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    America/New_York
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -68,8 +58,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  siteurl: 'http://www.speechpathpodcast.com/'
+  relativeLinks: 'http://www.speechpathpodcast.com/links.jsonp'
   media: 'images'
   metadata:
     _posts:

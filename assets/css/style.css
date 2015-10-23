@@ -1068,3 +1068,8 @@ img.mfp-img {
   top: 0;
   right: 0;
   padding-top: 0; }
+
+.about-image {
+  border-radius: 50%;
+  width: 300px;
+}
